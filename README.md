@@ -52,7 +52,3 @@ python exercicios.py
 - O código é ideal para iniciantes que desejam praticar estruturas básicas de programação.
 - Pode ser facilmente expandido para incluir validações, funções e manipulação de arquivos.
 - O tabuleiro de xadrez é uma representação simplificada, com abreviações para as peças.
-
-## 🛠️ Autor
-
-Gabriel Felipe — Estudante em formação pela **Softex PE**, explorando os fundamentos da programação com Python.
